@@ -15,7 +15,7 @@ I've known for almost my entire life that I wanted to have a career in Computer 
                   </p>
 
 Portfolio below!  
-[Single Cycle CPU & Assembler](https://github.com/Summer-Jenssen/Single-Cycle-CPU-and-Assembler)
+[Single Cycle CPU & Assembler](https://github.com/Summer-Jenssen/Single-Cycle-CPU-and-Assembler)  
 [Mini-shell](https://github.com/Summer-Jenssen/minishell/tree/main)
 
 
