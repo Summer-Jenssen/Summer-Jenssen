@@ -4,7 +4,7 @@ Hi 👋 My name is Summer Jenssen
 Computer Science Student at Stevens Institute of Technology
 -----------------------------------------------------------
 
-I've known for almost my entire life that I wanted to have a career in Computer Science, and I'm quite pleased to say that after almost two years now, I was right! I got my start with Java, but I've been steadily expanding my skill set since. I have found that I am partial to low-level programming during my classes, but have a love for all aspects of the field.
+I've known for almost my entire life that I wanted to have a career in Computer Science, and I'm quite pleased to say that after almost two years now, I was right! I got my start with Java, but I've been steadily expanding my skill set since. I have found that I am especially fond of low-level programming and embedded during my studies, but have a love for all aspects of the field.
 
 *   🌍  I'm based in New Jersey
 *   🖥️  Linkedin here! --> [Linkedin](http://www.linkedin.com/in/summer-jenssen)
